@@ -1,0 +1,2 @@
+# TERMUX-BASIC-CMD
+TERMUX basic tools
